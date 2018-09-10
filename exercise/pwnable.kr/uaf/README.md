@@ -22,5 +22,19 @@ p.recv(1024)
 From here the heap `$rbp-0x38` points to must be filled by address of -8 byte shifted.
 So if I choose option 1, I will get the shell.
 
+
+
+
+
+
+
 SPOILER ALERT!!!
 
+
+
+
+
+
+
+
+[Spoiler](spoiler.png)
