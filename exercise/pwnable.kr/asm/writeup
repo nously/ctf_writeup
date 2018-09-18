@@ -1,0 +1,10 @@
+1. since I am new to assembly language, I modify existing assembly code here:
+http://shell-storm.org/shellcode/files/shellcode-878.php
+
+2. make an assembly listing, so that we can look at the binary opcode.
+to make assembly listing, I use this:
+nasm read.asm -l read.lst
+
+3. make a simple python screen which can devide bytes with "\x"
+
+4. make a python script with pwntools.
